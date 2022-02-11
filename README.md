@@ -1,1 +1,1 @@
-# NewsMonkey
+# NewsMonkey - A React app
